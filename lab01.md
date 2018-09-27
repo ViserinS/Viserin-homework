@@ -1,16 +1,13 @@
----
-layout: default
-title: 请将标题写在这里
----
+#                         双鸭山大学的来源
 
-# 我的博客标题
 
-## 1、你会使用 vscode 编辑 markdown 了吗？
+###  双鸭山大学的本名叫中山大学，因英文校名“Sun Yat-sen University”的谐音神似“双鸭山”被一位网友翻译为“双鸭山大学”。
 
-你会使用 git bash 创建本地空间了吗？
+###  始作俑者“云湖浪子YZ25T”就此回应称，“双鸭山大学”并非错译，而是在自己小圈子里已流传长达五年的一个梗。五年前他在广州坐地铁，路过“中大”站，方知道中山大学的英文名就是“Sun Yat-sen University”，但听报站音像“双鸭山大学”，他还曾在校内网（现人人网）上发照片说：“原来中山大学的英文是....双鸭山大学…”
 
-你能拉取本文档到本地了？它在 gh-pages 分支内，设置 Slate 主题！
+###  ![img](http://p3.ifengimg.com/fck/2017_26/a7680d5c1e5eaba_w578_h387.jpg)
 
-用 vscode 编辑它，然后提交！
+![img](http://p3.ifengimg.com/fck/2017_26/ec341fa9e9c0179_w590_h291.jpg)
 
-这个文档将发布在 https://your-account.github.io/homework 中！
+![img](http://imgsrc.baidu.com/forum/w%3D580%3B/sign=4f813d5d032442a7ae0efdade178af4b/8718367adab44aedffa3b93abf1c8701a08bfb7b.jpg)
+
