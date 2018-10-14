@@ -1,5 +1,5 @@
 ##  游戏制作
-
+[我制作的游戏](youxi\index)
 首先安装Construct 2,建立新文件。
 
 双击白色地方，点击TiledBackgroung,然后选择图片。
