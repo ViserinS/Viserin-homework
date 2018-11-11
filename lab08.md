@@ -1,7 +1,6 @@
 ##  游戏设计
 
-[游戏设计]（New project\index）
-
+[游戏设计](New project\index)
 策划：
 
 设计一个类似打飞机小游戏；有动漫风格
