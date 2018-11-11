@@ -1,6 +1,6 @@
 ##  游戏设计
 
-[游戏设计]（New project）
+[游戏设计]（New project\index）
 
 策划：
 
