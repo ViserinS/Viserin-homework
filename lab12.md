@@ -26,7 +26,7 @@ Javascript加入网页有两种方法：
 
 //-Javascript结束-->
 
-</script>
+<script>
 
 在这个例子中，我们可看到一个新的标签： ，而浏览器这是用Javascript编写的程序，需要调动相应的解释程序进行解释。（w3c已经建议使用新的标准：)]]>]]>
 
@@ -48,7 +48,7 @@ Javascript 的使用
 Javascript 的使用
  //--><!]]>
 
-</script>
+<script>
 
 2、引用方式
 
@@ -60,7 +60,7 @@ Javascript 的使用
 
 document.writeln("这是Javascript！采用直接插入的方法！");
 
-在网页中可以这样调用程序：<script src＝"Script.js" language="Javascript"></script> 。
+在网页中可以这样调用程序：<script src＝ Script.js  language="Javascript"></script> 。
 
 ###  相关特性
 
